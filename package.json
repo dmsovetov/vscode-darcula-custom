@@ -1,0 +1,26 @@
+{
+    "name": "darcula-custom",
+    "publisher": "dmsovetov",
+    "displayName": "Darcula Custom",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darcula Custom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darcula Custom-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dmsovetov/vscode-darcula-custom"
+    }
+}
